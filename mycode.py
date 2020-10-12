@@ -24,7 +24,7 @@ benchmark_dir = './benchmark'
 
 def match_signatures(signatures, test_fvs, metric):
     signature_fvs, signature_labels = signatures
-    N = len(signature_labels)
+    sig_length = len(signature_labels)
 
     if metric == 'cos':
         norms_train = np.linalg.norm(signature_fvs, axis=1)
