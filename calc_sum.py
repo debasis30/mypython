@@ -14,7 +14,7 @@ import numpy as np
 
 l_num1 = 2.5
 l_num2 = 3.0
-l_num2 = 'Deb'
+l_num2 = 
 
 
 # Add two numbers
