@@ -20,6 +20,8 @@ l_sum = 0.0
 l_sum = l_num1 + l_num2
 
 # Display the sum
-print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
+print('The sum of {0} and {1} is {2}'.format(num1, num2, l_sum))
+print('The sum of {0} and {1} is {2}'.format(num1, num2, l_sum))
+
 
 
