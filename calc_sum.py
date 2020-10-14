@@ -13,10 +13,11 @@ import sys
 import numpy as np
 
 l_num1 = 2.5
-l_num1 = 3.0
+l_num2 = 3.0
 
 # Add two numbers
-sum = l_num1 + l_num1
+sum = l_num1 + l_num2
+sum = l_num1 + l_num2
 
 # Display the sum
 print('The sum of {0} and {1} is {2}'.format(num1, num2, sum))
