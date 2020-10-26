@@ -23,7 +23,11 @@ l_sum = l_num1 + l_num2
 
 # Display the sum
 print('The sum of {0} and {1} is {2}'.format(num1, num2, l_sum))
-print('The sum of {0} and {1} is {2}'.format(num1, num2, l_sum))
+
+if l_num1 > l_num2:
+  print("l_num1 is greater than l_num2")
+if l_num1 > l_num2:
+  print("l_num1 is greater than l_num2")
 
 
 
